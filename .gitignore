@@ -48,3 +48,9 @@ selenium-debug.log
 *.ntvs*
 *.njsproj
 *.sln
+
+# ** 任意目录下的
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/target/
